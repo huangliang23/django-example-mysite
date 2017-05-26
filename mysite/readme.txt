@@ -1,0 +1,1 @@
+/admin	用户:admin 密码:huangliang
